@@ -19,10 +19,8 @@
   <div>
   
   <img class="imagem" src="https://i.pinimg.com/originals/b1/6e/e7/b16ee76dd0dbebe66ffaeda66d1f9965.gif" alt="GIF com menina fazendo sinal para ligação" width="200">
-  
   </div>
- 
-<div> 
+ <div> 
   
   <a href="https://instagram.com/themarksf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Mark.Floriano#6473" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
