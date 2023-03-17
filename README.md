@@ -18,7 +18,7 @@
   
   <div>
   
-  <img class="imagem" src="https://i.pinimg.com/originals/b1/6e/e7/b16ee76dd0dbebe66ffaeda66d1f9965.gif" alt="">
+  <img class="imagem" src="https://i.pinimg.com/originals/b1/6e/e7/b16ee76dd0dbebe66ffaeda66d1f9965.gif" alt="GIF com menina fazendo sinal para ligação" width="200">
   
   </div>
  
