@@ -15,6 +15,12 @@
  <br>
  
   ### Pra entrar em contato é só me seguir nas redes abaixo!
+  
+  <div>
+  
+  <img class="imagem" src="https://i.pinimg.com/originals/b1/6e/e7/b16ee76dd0dbebe66ffaeda66d1f9965.gif" alt="">
+  
+  </div>
  
 <div> 
   
